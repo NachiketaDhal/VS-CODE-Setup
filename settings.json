@@ -39,5 +39,6 @@
   "explorer.confirmDragAndDrop": false,
   "terminal.integrated.fontFamily": "Fira Code",
   "editor.multiCursorModifier": "ctrlCmd",
-  "workbench.iconTheme": "material-icon-theme"
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.compactFolders": false
 }
