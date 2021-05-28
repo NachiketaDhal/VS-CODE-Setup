@@ -40,5 +40,8 @@
   "terminal.integrated.fontFamily": "Fira Code",
   "editor.multiCursorModifier": "ctrlCmd",
   "workbench.iconTheme": "material-icon-theme",
-  "explorer.compactFolders": false
+  "explorer.compactFolders": false,
+  "emmet.includeLanguages":{
+    "javascript" : "javascriptreact"
+  }
 }
