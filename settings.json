@@ -23,13 +23,11 @@
   "scss.validate": false,
   "less.validate": false,
   "editor.wordWrap": "on",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "workbench.startupEditor": "newUntitledFile",
   "liveServer.settings.donotShowInfoMsg": true,
   "explorer.confirmDelete": false,
   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
   "editor.tabSize": 2,
-  "editor.formatOnSave": true,
   "update.mode": "manual",
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
@@ -44,12 +42,14 @@
   "editor.multiCursorModifier": "ctrlCmd",
   "workbench.iconTheme": "material-icon-theme",
   "explorer.compactFolders": false,
-  // "emmet.includeLanguages": {
-  //   "javascript": "javascriptreact"
-  // },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
   "editor.cursorBlinking": "expand",
-  "terminal.integrated.tabs.enabled": true,
-  "terminal.integrated.cursorBlinking": true,
-  "terminal.integrated.cursorStyle": "line",
-  "terminal.integrated.cursorWidth": 2
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${appName} - Nachiketa Dhal",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "css.styleSheets": [
+    "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
+  ]
 }
