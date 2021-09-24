@@ -26,7 +26,6 @@
   "workbench.startupEditor": "newUntitledFile",
   "liveServer.settings.donotShowInfoMsg": true,
   "explorer.confirmDelete": false,
-  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
   "editor.tabSize": 2,
   "update.mode": "manual",
   "editor.fontFamily": "Fira Code",
@@ -51,5 +50,6 @@
   "editor.formatOnSave": true,
   "css.styleSheets": [
     "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
-  ]
+  ],
+  "terminal.integrated.defaultProfile.windows": "Git Bash"
 }
